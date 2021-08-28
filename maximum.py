@@ -7,6 +7,7 @@ def maximum(a, b):
 
 # Driver code
 print("hello python")
+print("rohit")
 a = 2
 b = 4
 print(maximum(a, b))
